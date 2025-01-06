@@ -1,4 +1,5 @@
 console.log('labas, ką tu?');
+console.log('bit js 03');
 
 
 // Number 4
